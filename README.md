@@ -1,6 +1,6 @@
-### 陈超 · Chen Chao
+### Fenn
 
-市场营销硕士在读（宁波诺丁汉大学，2027.11 毕业）。做过电商运营与内容营销，现在把重心放在**内容生产的标准化与评测**上。
+NUBC硕士在读。做过电商运营与内容营销，现在把重心放在**内容生产的标准化与评测**上。
 
 下面几个仓库，是这段时间把实际做法整理成可复用工具的结果。
 
@@ -27,7 +27,7 @@
 
 **技术栈**
 
-SQL（MySQL / SQLite）· Python（数据处理与评测脚本）· PowerBI · Codex（Skill / Prompt / MCP）· 巨量千川 / 千瓜 / 飞瓜
+SQL（MySQL / SQLite）· Python（数据处理与评测脚本）· PowerBI · Codex（Skill / Prompt / MCP）
 
 ---
 
