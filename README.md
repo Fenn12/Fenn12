@@ -10,6 +10,7 @@
 
 | 仓库 | 一句话 |
 |---|---|
+| [`kol-selection-agent`](https://github.com/Fenn12/kol-selection-agent) | 达人筛选 Agent：解析区间化销售数据 → 四维评分 → 预算内选人。条件不够会拒绝，不编名单 |
 | [`ai-content-ops-kit`](https://github.com/Fenn12/ai-content-ops-kit) | 种草内容生产的 Skill 定义、24 条评测集与回归脚本。规范管下限，评测管迭代 |
 | [`kol-scoring-model`](https://github.com/Fenn12/kol-scoring-model) | 达人四维评估模型：可解释打分、分层与差异化动作。解决「数据好但转化差」 |
 | [`retail-ops-analysis`](https://github.com/Fenn12/retail-ops-analysis) | 家清品类经营分析：品类结构 / 异常归因 / SKU 健康度，SQLite 可直接跑 |
